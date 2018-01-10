@@ -1,2 +1,8 @@
 # Predicting-Criminals
-There has been a surge in crimes committed in recent years, making crime a top cause of concern for law enforcement. If we are able to estimate whether someone is going to commit a crime in the future, we can take precautions and be prepared. You are given a dataset containing answers to various questions concerning the professional and private lives of several people. A few of them have been arrested for various small and large crimes in the past. Use the given data to predict if the people in the test data will commit a crime. The train data consists of 45718 rows, while the test data consists of 11430 rows.  The evaluation metric is precision score.
+
+In this project we will be **predicting whether a person will commit a crime or not** based on the dataset which contains several features on the personal and professional lives of several people which includes past criminal backgroung.
+
+I have used Decision Tree algorithm to find whether the person will commit the crime or not and has got a accuracy score of **0.95328.**
+
+Link to the Dataset is-https://he-s3.s3.amazonaws.com/media/hackathon/predict-the-criminal/predict-the-criminal/d17428d0-e-Criminal.rar
+
